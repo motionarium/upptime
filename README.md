@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://https://status.motionarium.top/)
+[**Visit our status website →**](https://status.motionarium.top/)
 
 ## 📄 License
 
