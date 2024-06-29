@@ -4,35 +4,39 @@
     "url": "https://motionarium.top",
     "icon": "https://icons.duckduckgo.com/ip3/motionarium.top.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 631,
-    "timeWeek": 714,
-    "timeMonth": 716,
-    "timeYear": 716,
-    "dailyMinutesDown": {}
+    "time": 725,
+    "timeDay": 740,
+    "timeWeek": 731,
+    "timeMonth": 725,
+    "timeYear": 725,
+    "dailyMinutesDown": {
+      "2024-06-29": 0
+    }
   },
   {
     "name": "Radio",
     "url": "https://fm.motionarium.top",
     "icon": "https://icons.duckduckgo.com/ip3/fm.motionarium.top.ico",
     "slug": "radio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 629,
-    "timeWeek": 690,
-    "timeMonth": 698,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 694,
+    "timeDay": 635,
+    "timeWeek": 684,
+    "timeMonth": 694,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2024-06-29": 0
+    }
   }
 ]
