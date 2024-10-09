@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/motionarium.top.ico",
     "slug": "site",
     "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "72.49%",
+    "uptime": "96.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "84.48%",
     "uptimeMonth": "93.64%",
-    "uptimeYear": "96.55%",
-    "time": 704,
-    "timeDay": 612,
-    "timeWeek": 625,
+    "uptimeYear": "96.58%",
+    "time": 703,
+    "timeDay": 640,
+    "timeWeek": 630,
     "timeMonth": 658,
-    "timeYear": 704,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2024-10-08": 460,
       "2024-10-07": 1104,
@@ -33,5 +33,23 @@
       "2024-06-30": 182,
       "2024-06-29": 172
     }
+  },
+  {
+    "name": "Site [github]",
+    "url": "https://motionarium.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/motionarium.github.io.ico",
+    "slug": "site-github",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
+    "dailyMinutesDown": {}
   }
 ]
