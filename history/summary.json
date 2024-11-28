@@ -4,7 +4,7 @@
     "url": "https://motionarium.top",
     "icon": "https://icons.duckduckgo.com/ip3/motionarium.top.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "97.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 645,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2024-11-28": 0,
       "2024-10-18": 280,
       "2024-10-17": 1082,
       "2024-10-11": 43,
